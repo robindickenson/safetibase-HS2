@@ -1,7 +1,7 @@
 configData = {
-    'site': 'site',
-    'Residual Risk Owner': 'Residual Risk Owner',
-    'Contract': 'Contract',
-    'Client Review': false,
-    'Client Name': ''
+    'site': 'sublot',
+    'Residual Risk Owner': 'HS2 Residual Risk Owner',
+    'Contract': 'HS2 Rail Systems Contract',
+    'Client Review': true,
+    'Client Name': 'HS2'
 }
